@@ -27,8 +27,7 @@ This project implements an end-to-end computer vision pipeline for detecting and
 ## 📂 Input Video
 
 Public video source:
-👉 [PASTE YOUR VIDEO LINK HERE]
-
+👉  https://drive.google.com/file/d/1r48AJdCEntRK7WYsC-S6GnDcOJ9-iNiD/view?usp=sharing
 ---
 
 ## ▶️ How to Run
@@ -100,6 +99,12 @@ Video → Frame Extraction → YOLOv8 Detection → ByteTrack Tracking → ID As
 ## 📸 Results
 
 Screenshots available in /screenshots folder.
+<img width="1815" height="850" alt="traking" src="https://github.com/user-attachments/assets/2f62c7be-04f9-4a42-afc4-3429bda0008e" />
+<img width="1821" height="827" alt="2_12" src="https://github.com/user-attachments/assets/0347a2cc-063d-42d4-8e85-a0d663e5d3b7" />
+<img width="1792" height="812" alt="654ed" src="https://github.com/user-attachments/assets/3c76b080-4d4b-4092-85c9-23e81fd49556" />
+
+
+
 
 ---
 
